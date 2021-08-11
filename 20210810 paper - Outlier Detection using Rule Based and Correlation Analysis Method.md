@@ -1,0 +1,15 @@
+- Outlier Detection in Time Series Monitoring Datasets using Rule Based and Correlation Analysis Method
+- https://www.koreascience.or.kr/article/JAKO201513251334883.pdf
+
+- 오류 데이터 형태 
+	- Short fault, Constant fault, Noise fault
+- rule-based method
+	- short fault 
+			- 각 개별 데이터의 변화량 분석, 그 값이 일정 한계값을 벗어날 때 감지
+			- 각 데이터간 1차 차분 값에 대한 히스토그램 작성, 일정 오차율에 의한 신뢰구간 설정
+	- noise fault
+		- 일련의 시계열 데이터를 N개씩 일정 간격의 군으로 분류
+		- 해당 군의 표준편차 연속 계산, 일정 한계값을 벗어날 때 감지
+	- Correlation Analysis Method
+		- 상호 연관성을 나타낼 수 있는 타 계측 데이터를 동시에 분석
+		- 선형 최소 자승법 회귀분석 모델 이용
