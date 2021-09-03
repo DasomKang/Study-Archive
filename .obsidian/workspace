@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/20210811 Fuzzy Clustering.md",
+            "file": "ML/2021-09-03 clustering research.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/20210811 Fuzzy Clustering.md",
+                "file": "ML/2021-09-03 clustering research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,11 @@
   },
   "active": "7a7ffd3d1171ed13",
   "lastOpenFiles": [
-    "ML/20210811 Fuzzy Clustering.md",
     "2021-09-03.md",
-    "Untitled.md",
     "2021-08-10 paper - Outlier Detection using Rule Based and Correlation Analysis Method.md",
+    "ML/20210810 airflow.md",
+    "ML/20210811 Fuzzy Clustering.md",
+    "Untitled.md",
     "README.md",
     "Article/20210810 customer segmentation vis clsuter analysis.md",
     "20210810 paper - Outlier Detection in Time Series Monitoring Datasets using Rule Based and Correlation Analysis Method.md",
