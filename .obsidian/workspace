@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/2021-09-03 clustering research.md",
+            "file": "Stats/2021-09-13 brutlag confiden Holt-Winters Model_ Brutlag’s Anomaly Detection Algorithm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/2021-09-03 clustering research.md",
+                "file": "Stats/2021-09-13 brutlag confiden Holt-Winters Model_ Brutlag’s Anomaly Detection Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "7a7ffd3d1171ed13",
   "lastOpenFiles": [
-    "2021-09-03.md",
+    "brutlag confiden Holt-Winters Model_ Brutlag’s Anomaly Detection Algorithm.md",
     "2021-08-10 paper - Outlier Detection using Rule Based and Correlation Analysis Method.md",
-    "ML/20210810 airflow.md",
-    "ML/20210811 Fuzzy Clustering.md",
-    "Untitled.md",
     "README.md",
+    "ML/20210811 Fuzzy Clustering.md",
+    "ML/20210810 airflow.md",
+    "Untitled.md",
+    "ML/2021-09-03 clustering research.md",
+    "2021-09-03.md",
     "Article/20210810 customer segmentation vis clsuter analysis.md",
-    "20210810 paper - Outlier Detection in Time Series Monitoring Datasets using Rule Based and Correlation Analysis Method.md",
-    "20210810.md"
+    "20210810 paper - Outlier Detection in Time Series Monitoring Datasets using Rule Based and Correlation Analysis Method.md"
   ]
 }

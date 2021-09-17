@@ -22,14 +22,7 @@ https://rfriend.tistory.com/230
 	- 기존의 수학적인 시스템 모델링 에서는 잘 나타낼 수 없는 불확실한 정보와 복잡하고 잘 정의되지 않는 시스템을 if-then 형태의 규칙을 이용하는 형태를 보이는 추론 시스템
 	-  입력변수의 소속 함수, 퍼지규칙, 출력변수의 소속 함수로 구성
 
-
 [Application of the C-Means Fuzzy Clustering Method for the Patient’s State Recognition Problems in the Medical Monitoring Systems](http://ceur-ws.org/Vol-2362/paper20.pdf)
-
-
-
-
-
-
 
 refer
 - https://www.researchgate.net/publication/4309998_Similarity-Based_Fuzzy_Clustering_for_User_Profiling
