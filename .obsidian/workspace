@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/2021-08-11 Fuzzy Clustering.md",
+            "file": "Stats/2021-09-17 Time Series Prediction 복습.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/2021-08-11 Fuzzy Clustering.md",
+                "file": "Stats/2021-09-17 Time Series Prediction 복습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7a7ffd3d1171ed13",
   "lastOpenFiles": [
+    "Stats/2021-09-17 Time Series Prediction 복습.md",
+    "Stats/2021-09-13 brutlag confiden Holt-Winters Model_ Brutlag’s Anomaly Detection Algorithm.md",
+    "Stats/Untitled.md",
+    "Article/2021-08-10 customer segmentation vis clsuter analysis.md",
     "ML/2021-08-11 Fuzzy Clustering.md",
     "ML/2021-09-03 clustering research.md",
     "ML/2021-08-10 airflow.md",
     "ML/20210811 Fuzzy Clustering.md",
     "ML/20210810 airflow.md",
-    "Stats/2021-08-10 paper - Outlier Detection using Rule Based and Correlation Analysis Method.md",
-    "brutlag confiden Holt-Winters Model_ Brutlag’s Anomaly Detection Algorithm.md",
-    "2021-08-10 paper - Outlier Detection using Rule Based and Correlation Analysis Method.md",
-    "README.md",
-    "Untitled.md"
+    "Stats/2021-08-10 paper - Outlier Detection using Rule Based and Correlation Analysis Method.md"
   ]
 }
