@@ -1,11 +1,7 @@
 ---
-layout: post
-navigation: True
 title: reading abstracts 5 | Application of Isolation Forest Technique for Outlier Detection
 date: 2021-10-13
 tags: [Isolation Forest, Anomaly Detection]
-categories: [All, Papers]
-comments: true
 ---
 
 

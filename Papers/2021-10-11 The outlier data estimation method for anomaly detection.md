@@ -1,11 +1,7 @@
 ---
-layout: post
-navigation: True
 title: reading abstracts 3 | the outlier data estimation method for anomaly detection 
 date: 2021-10-12
 tags: [anomaly detection, DTW]
-categories: [All, Papers]
-comments: true
 ---
 
 - Paper : [A study on the outlier data estimation method for anomaly detection of photovoltaic system](https://www.koreascience.or.kr/article/JAKO202019962560548.pdf)

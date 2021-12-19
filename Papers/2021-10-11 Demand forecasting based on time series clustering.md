@@ -1,11 +1,7 @@
 ---
-layout: post
-navigation: True
 title: reading abstracts 1 | demand forecasting based on time series clustering
 date: 2021-10-11
 tags: [time series clustering, demand forecasting]
-categories: [All, Papers]
-comments: true
 ---
 
 

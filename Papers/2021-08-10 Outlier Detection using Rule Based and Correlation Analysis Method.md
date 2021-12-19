@@ -1,5 +1,5 @@
 ---
-title: reading abstracts 2 | Outlier Detection using Rule Based and Correlation Analysis Method
+title: Outlier Detection using Rule Based and Correlation Analysis Method
 date: 2021-08-10
 tags: [outlier detection]
 ---

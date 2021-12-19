@@ -1,11 +1,7 @@
 ---
-layout: post
-navigation: True
-title: reading abstracts, day4 | Development of Integrated Outlier Analysis System for Construction Monitoring Data
+title: reading abstracts 6 | Development of Integrated Outlier Analysis System for Construction Monitoring Data
 date: 2021-10-14
 tags: [Anomaly Detection]
-categories: [All, Papers]
-comments: true
 ---
 
 
