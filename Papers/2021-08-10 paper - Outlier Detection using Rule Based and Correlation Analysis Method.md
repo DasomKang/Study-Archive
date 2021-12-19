@@ -1,3 +1,6 @@
+#timeseries
+
+
 - Outlier Detection in Time Series Monitoring Datasets using Rule Based and Correlation Analysis Method
 - https://www.koreascience.or.kr/article/JAKO201513251334883.pdf
 
