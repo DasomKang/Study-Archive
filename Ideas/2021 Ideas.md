@@ -1,9 +1,14 @@
 ### 2021.12
 
 **idea**
+- User acquisition propensity model
 
 
 **keywords**    
+- TABNET
+- Soft ordering 1d-cnn
+
+
 
 ---
 
