@@ -6,6 +6,9 @@
 **keywords**    
 - TABNET
 - Soft ordering 1d-cnn
+- Time Series Validation : One-step Ahead Cross-validation / Two-Step Ahead Cross-validation
+
+
 
 ---
 
