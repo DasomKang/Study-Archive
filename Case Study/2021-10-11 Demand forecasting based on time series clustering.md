@@ -48,8 +48,3 @@ tags: [time series clustering, demand forecasting]
 		- 평가 방법 : MAPE
 		- 전체 사용량의 예측(DSHW)에 대한 MAPE와 군집별 예측합 비교
 
-
-
-
-
-
