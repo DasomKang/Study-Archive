@@ -18,7 +18,11 @@ comments: true
 - 2021-12-22 [Auto-Forecasting in Python with ThymeBoost](https://towardsdatascience.com/auto-forecasting-in-python-with-thymeboost-8bc9bd466998)
     - ThymeBoost, Prophet, Pmdarima(Auto-arima library)  
   
-  
+
+- 2021-12-26 [Why every data scientist should pay attention to crypto](https://towardsdatascience.com/why-every-data-scientist-should-pay-attention-to-crypto-39b4c25ff319)
+
+
+
 backlog
 - [Time Series Outlier Detection with ThymeBoost](https://towardsdatascience.com/time-series-outlier-detection-with-thymeboost-ec2046e17458)
     - ThymeBoost takes traditional time series decomposition and combines it with gradient boosting
