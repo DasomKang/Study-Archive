@@ -7,6 +7,12 @@
 - TABNET
 - Soft ordering 1d-cnn
 - Time Series Validation : One-step Ahead Cross-validation / Two-Step Ahead Cross-validation
+- Gausian process
+- Convex optimization
+- Causal time series analysis
+- contextual learning 
+- lookalike modeling
+- multi-armed bandits
 
 
 
