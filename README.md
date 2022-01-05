@@ -10,7 +10,7 @@ Today I Learned
 블로그 닫기 전, 마지막으로 스크린샷을 떠서 아래에 첨부해두어야겠다.   
 한땀한땀 커스텀했던 애정넘쳤던 사이트여서 시원섭섭하구만... 
 
-![juleskang.cc](./img/screenshot1.png)
+![juleskang.cc](.Resource/img/screenshot1.png)
 
 ---
 
