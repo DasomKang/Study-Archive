@@ -1,4 +1,12 @@
 
+
+##  Backlog
+- 42dot의 ML Data Platform for Continuous Learning https://42dotblog.oopy.io/71c5d004-7dcd-4026-b101-2b5faa2831e5
+- 29cm의 data pipeline https://medium.com/29cm/29cm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%86%8C%EA%B0%9C-5dde09621d81
+- 
+
+
+
 # Paper List  
 
 **List**
