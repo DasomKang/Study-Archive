@@ -29,4 +29,4 @@ tags: [Isolation Forest, Anomaly Detection]
 
 
 **연구**
-- 모수기반의 다변량 이상치 탐지기법 의 단점을 보완하고자 분류모델 기반의 다변량 이상치 탐 색기법인 Isolation Forest (iForest) 기법을 수질자료에 적용
+- 모수기반의 다변량 이상치 탐지기법 의 단점을 보완하고자 분류모델 기반의 다변량 이상치 탐색기법인 Isolation Forest (iForest) 기법을 수질자료에 적용

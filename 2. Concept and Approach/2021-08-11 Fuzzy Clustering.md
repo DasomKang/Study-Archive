@@ -21,6 +21,4 @@ https://rfriend.tistory.com/230
 	-  입력변수의 소속 함수, 퍼지규칙, 출력변수의 소속 함수로 구성
 
 [Application of the C-Means Fuzzy Clustering Method for the Patient’s State Recognition Problems in the Medical Monitoring Systems](http://ceur-ws.org/Vol-2362/paper20.pdf)
-refer
-
 - https://www.researchgate.net/publication/4309998_Similarity-Based_Fuzzy_Clustering_for_User_Profiling

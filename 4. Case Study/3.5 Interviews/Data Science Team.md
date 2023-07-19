@@ -1,4 +1,21 @@
-[몸값 4조원 컬리엔 ‘데이터 멍멍이’가 산다](https://stibee.com/api/v1.0/emails/share/MJgqwQVhOKRvEEKRq_RrFmCuuDcgYA==)
+
+
+## Bookmark
+
+[2021.12.23 몸값 4조원 컬리엔 ‘데이터 멍멍이’가 산다](https://stibee.com/api/v1.0/emails/share/MJgqwQVhOKRvEEKRq_RrFmCuuDcgYA==)
+
+
+
+
+
+
+  
+
+  
+
+---
+## Kurly
+[2021.12.23 몸값 4조원 컬리엔 ‘데이터 멍멍이’가 산다](https://stibee.com/api/v1.0/emails/share/MJgqwQVhOKRvEEKRq_RrFmCuuDcgYA==)
 
 컬리 수요 예측
 - 전체 폐기율 1% 미만 (일반 대형마트는  2~3%)
@@ -25,12 +42,3 @@
     - 물류팀: 일용직 알바 고용이 얼마나 더 필요한지, 용달차 몇 대 늘려야할지
     - 마케팅팀: 고객 몇 명에게 쿠폰을 발급하고, 상품 알림을 보낼지
     - 기술팀: 서버를 얼마나 더 증설해야할지
-
-
-
-
-### Backlog
-
-
-- GAMs
-    - [Analysis of influencing factors on soil Zn content using generalized additive model](https://www.nature.com/articles/s41598-018-33745-9)
