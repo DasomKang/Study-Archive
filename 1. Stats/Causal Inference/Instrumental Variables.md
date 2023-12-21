@@ -41,8 +41,6 @@
 
 ![img1](Resource/img/causal2.png)
 
-![[Study_Archive/Resource/img/causal2.png]]
-
 
 
 
@@ -68,9 +66,3 @@
 		- 너무 많은 도구변수를 넣으면 
 			- 2SLS가 OLS에 가까워짐 -> 생략변수에 대한 일관성을 잃고 -> 편향 발생 
 
-
-
-$Y_i = \beta_0 + kT_i + v_i$   
-  
-$v_i = \beta W_i + u_i$
-  
