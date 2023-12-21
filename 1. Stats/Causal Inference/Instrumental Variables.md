@@ -18,8 +18,6 @@ $v_i = \beta W_i + u_i$
 
 
 
-![[스크린샷 2023-12-21 오후 4.38.32.png]]
 
-
-
+![1](./Resource/img/causal_1.png)
 
